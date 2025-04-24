@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Software Engineer with 6+ YOE in Java, Springboot, AWS technologies.
+- 🌱 I’m currently learning Frontend technologies: Typescript, AG Grid, Angular
+- - Starting with AG Grid as on 24/4/25 
